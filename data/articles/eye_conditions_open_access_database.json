@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Diabetic Retinopathy: A review on its pathophysiology and therapeutics",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11287547/",
+    "index": 1,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/64/73/95881.PMC11287547.pdf",
+    "path": "data/articles/downloads/0001_PMC11287547_95881_pmc11287547.pdf"
+  },
+  {
+    "title": "A Narrative Review of Retinopathy in Diabetic Patients",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866186/",
+    "index": 2,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2a/e4/PMC10866186.tar.gz",
+    "path": "data/articles/downloads/0002_PMC10866186_cureus_0016_00000052308.pdf"
+  },
+  {
+    "title": "Diabetic Retinopathy: Pathophysiology and Treatments",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6032159/",
+    "index": 3,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/41/49/PMC6032159.tar.gz",
+    "path": "data/articles/downloads/0003_PMC6032159_ijms_19_01816.pdf"
+  },
+  {
+    "title": "Diabetic retinopathy: An update",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2636123/",
+    "index": 4,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/13/86/IndianJOphthalmol-56-179.PMC2636123.pdf",
+    "path": "data/articles/downloads/0004_PMC2636123_indianjophthalmol_56_179_pmc2636123.pdf"
+  },
+  {
+    "title": "Measures of diabetic retinopathy treatment coverage",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11956272/",
+    "index": 5,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fc/0f/PMC11956272.tar.gz",
+    "path": "data/articles/downloads/0005_PMC11956272_bmjopen_15_3.pdf"
+  },
+  {
+    "title": "Diabetic retinopathy: Looking forward to 2030",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9868457/",
+    "index": 6,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8a/1e/PMC9868457.tar.gz",
+    "path": "data/articles/downloads/0006_PMC9868457_fendo_13_1077669.pdf"
+  },
+  {
+    "title": "Clinical trial landscape of diabetic retinopathy",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12825843/",
+    "index": 7,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/6c/PMC12825843.tar.gz",
+    "path": "data/articles/downloads/0007_PMC12825843_js9_112_1873.pdf"
+  },
+  {
+    "title": "Review of Therapeutic Advances in Diabetic Retinopathy",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3474624/",
+    "index": 8,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Update in the epidemiology, risk factors, screening, and treatment of diabetic retinopathy",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354492/",
+    "index": 9,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/98/d4/JDI-12-1322.PMC8354492.pdf",
+    "path": "data/articles/downloads/0009_PMC8354492_jdi_12_1322_pmc8354492.pdf"
+  },
+  {
+    "title": "Diabetic Retinopathy: A Position Statement by the American Diabetes Association",
+    "doi": null,
+    "disease_tags": [
+      "diabetic_retinopathy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5402875/",
+    "index": 10,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/29/8d/PMC5402875.tar.gz",
+    "path": "data/articles/downloads/0010_PMC5402875_dc162641.pdf"
+  },
+  {
+    "title": "Updates on the Diagnosis and Management of Glaucoma",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9673042/",
+    "index": 11,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/a4/PMC9673042.tar.gz",
+    "path": "data/articles/downloads/0011_PMC9673042_main.pdf"
+  },
+  {
+    "title": "The Pathophysiology and Treatment of Glaucoma: A Review",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4523637/",
+    "index": 12,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Glaucoma: Current and New Therapeutic Approaches",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11429057/",
+    "index": 13,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1f/b2/PMC11429057.tar.gz",
+    "path": "data/articles/downloads/0013_PMC11429057_biomedicines_12_02000.pdf"
+  },
+  {
+    "title": "The Diagnosis and Treatment of Glaucoma",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7196841/",
+    "index": 14,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Glaucoma clinical trial design: A review of the literature",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4073546/",
+    "index": 15,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/08/42/PCR-5-108.PMC4073546.pdf",
+    "path": "data/articles/downloads/0015_PMC4073546_pcr_5_108_pmc4073546.pdf"
+  },
+  {
+    "title": "Glaucoma",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3275300/",
+    "index": 16,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Systematic reviews and randomised controlled trials on open angle glaucoma",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7002425/",
+    "index": 17,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "New trends in the treatment of open-angle glaucoma",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12460366/",
+    "index": 18,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b9/f7/PMC12460366.tar.gz",
+    "path": "data/articles/downloads/0018_PMC12460366_10792_2025_article_3773.pdf"
+  },
+  {
+    "title": "Glaucoma Clinical Research: Trends in Treatment Strategies and Drug Development",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8473801/",
+    "index": 19,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a5/29/PMC8473801.tar.gz",
+    "path": "data/articles/downloads/0019_PMC8473801_fmed_08_733080.pdf"
+  },
+  {
+    "title": "Treatment of Advanced Glaucoma Study",
+    "doi": null,
+    "disease_tags": [
+      "glaucoma"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6047148/",
+    "index": 20,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/b4/PMC6047148.tar.gz",
+    "path": "data/articles/downloads/0020_PMC6047148_bjophthalmol_2017_310902.pdf"
+  },
+  {
+    "title": "Normal Macular Thickness Measurements in Healthy Eyes Using Stratus Optical Coherence Tomography",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1941772/",
+    "index": 21,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Normative values of the retinal macular thickness in a Middle Eastern population",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7137449/",
+    "index": 22,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/bb/PMC7137449.tar.gz",
+    "path": "data/articles/downloads/0022_PMC7137449_12886_2020_article_1391.pdf"
+  },
+  {
+    "title": "Fairness and generalizability of OCT normative databases",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10440930/",
+    "index": 23,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/37/55/PMC10440930.tar.gz",
+    "path": "data/articles/downloads/0023_PMC10440930_40942_2023_article_459.pdf"
+  },
+  {
+    "title": "Normative Data for Macular Thickness and Volume for Optical Coherence Tomography in a Healthy Caucasian Population",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10455588/",
+    "index": 24,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/64/16/PMC10455588.tar.gz",
+    "path": "data/articles/downloads/0024_PMC10455588_jcm_12_05232.pdf"
+  },
+  {
+    "title": "Normative prospective data on automatically quantified retinal morphology and retinal sensitivity in healthy ageing eyes",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12069971/",
+    "index": 25,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d6/2b/PMC12069971.tar.gz",
+    "path": "data/articles/downloads/0025_PMC12069971_aos_103_423.pdf"
+  },
+  {
+    "title": "A Wide-Field Optical Coherence Tomography Normative Database for Healthy Eyes",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7873501/",
+    "index": 26,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/69/bd/tvst-10-2-7.PMC7873501.pdf",
+    "path": "data/articles/downloads/0026_PMC7873501_tvst_10_2_7_pmc7873501.pdf"
+  },
+  {
+    "title": "Macular Thickness by Age and Gender in Healthy Eyes Using Spectral Domain Optical Coherence Tomography",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3357395/",
+    "index": 27,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/aa/48/PMC3357395.tar.gz",
+    "path": "data/articles/downloads/0027_PMC3357395_pone_0037638.pdf"
+  },
+  {
+    "title": "Normative Database for All Retinal Layer Thicknesses Using Spectralis Optical Coherence Tomography Posterior Pole Protocol",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7602827/",
+    "index": 28,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d9/4e/PMC7602827.tar.gz",
+    "path": "data/articles/downloads/0028_PMC7602827_jcm_09_03317.pdf"
+  },
+  {
+    "title": "Developing a normative database for retinal perfusion using optical coherence tomography angiography",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8367249/",
+    "index": 29,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Characteristics of a Large Database of Healthy Eyes Obtained from Optometry Practices",
+    "doi": null,
+    "disease_tags": [
+      "healthy"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11451834/",
+    "index": 30,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/d8/7e/tvst-13-10-8.PMC11451834.pdf",
+    "path": "data/articles/downloads/0030_PMC11451834_tvst_13_10_8_pmc11451834.pdf"
+  },
+  {
+    "title": "Development and Course of Scars in the Comparison of Age-related Macular Degeneration Treatments Trials (CATT)",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015772/",
+    "index": 31,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Risk of Scar in the Comparison of Age-related Macular Degeneration Treatments Trials",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3943618/",
+    "index": 32,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Fibrosis in age-related neovascular macular degeneration in the anti-VEGF era",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584703/",
+    "index": 33,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/90/af/PMC11584703.tar.gz",
+    "path": "data/articles/downloads/0033_PMC11584703_41433_2024_article_3308.pdf"
+  },
+  {
+    "title": "Management of fibrosis in neovascular age-related macular degeneration",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12906522/",
+    "index": 34,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c6/c8/PMC12906522.tar.gz",
+    "path": "data/articles/downloads/0034_PMC12906522_417_2025_article_6890.pdf"
+  },
+  {
+    "title": "Subretinal fibrosis in neovascular age-related macular degeneration",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8975778/",
+    "index": 35,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/cf/17/PMC8975778.tar.gz",
+    "path": "data/articles/downloads/0035_PMC8975778_441_2021_article_3514.pdf"
+  },
+  {
+    "title": "Understanding Drivers of Ocular Fibrosis: Current and Future Therapeutic Perspectives",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8584003/",
+    "index": 36,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/cc/e8/PMC8584003.tar.gz",
+    "path": "data/articles/downloads/0036_PMC8584003_ijms_22_11748.pdf"
+  },
+  {
+    "title": "Structure-Function Correlation of Retinal Fibrosis in Eyes with Neovascular Age-Related Macular Degeneration",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10889582/",
+    "index": 37,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f5/ae/PMC10889582.tar.gz",
+    "path": "data/articles/downloads/0037_PMC10889582_jcm_13_01074.pdf"
+  },
+  {
+    "title": "Standardization of Imaging Criteria for Detecting Macular Fibrosis in Neovascular Age-Related Macular Degeneration",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830330/",
+    "index": 38,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/99/17/PMC12830330.tar.gz",
+    "path": "data/articles/downloads/0038_PMC12830330_main.pdf"
+  },
+  {
+    "title": "Optical Coherence Tomography Characteristics for Differentiating Scars in the Scarred Stages of Macular Neovascularization in AMD",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11257609/",
+    "index": 39,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/a0/PMC11257609.tar.gz",
+    "path": "data/articles/downloads/0039_PMC11257609_cureus_0016_00000062593.pdf"
+  },
+  {
+    "title": "Development of atrophy of the retinal pigment epithelium around disciform scars",
+    "doi": null,
+    "disease_tags": [
+      "macular_scar"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1857011/",
+    "index": 40,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Myopia: a review of current concepts, association with extraocular conditions, and strategies for treatment and prevention",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12326048/",
+    "index": 41,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/40/60/cep-2025-00115.PMC12326048.pdf",
+    "path": "data/articles/downloads/0041_PMC12326048_cep_2025_00115_pmc12326048.pdf"
+  },
+  {
+    "title": "A Review of Current Concepts of the Etiology and Treatment of Myopia",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6023584/",
+    "index": 42,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/3b/27/ecl-44-231.PMC6023584.pdf",
+    "path": "data/articles/downloads/0042_PMC6023584_ecl_44_231_pmc6023584.pdf"
+  },
+  {
+    "title": "Current and emerging strategies for myopia control",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12446493/",
+    "index": 43,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b7/6d/PMC12446493.tar.gz",
+    "path": "data/articles/downloads/0043_PMC12446493_41433_2025_article_3949.pdf"
+  },
+  {
+    "title": "Review on current concepts of myopia and its control strategies",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8025164/",
+    "index": 44,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Current and Emerging Strategies for Myopia Control in Children",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12941882/",
+    "index": 45,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Evaluating the myopia progression control efficacy of defocus incorporated multiple segments spectacle lenses",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081604/",
+    "index": 46,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/97/dc/PMC7081604.tar.gz",
+    "path": "data/articles/downloads/0046_PMC7081604_13063_2020_article_4095.pdf"
+  },
+  {
+    "title": "Effectiveness of myopia control interventions: A systematic review and meta-analysis",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10076805/",
+    "index": 47,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7d/6a/PMC10076805.tar.gz",
+    "path": "data/articles/downloads/0047_PMC10076805_fpubh_11_1125000.pdf"
+  },
+  {
+    "title": "Myopia Control: Are We Ready for an Evidence Based Standard of Care?",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11109072/",
+    "index": 48,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/53/09/40123_2024_Article_951.PMC11109072.pdf",
+    "path": "data/articles/downloads/0048_PMC11109072_40123_2024_article_951_pmc11109072.pdf"
+  },
+  {
+    "title": "Review on the Myopia Pandemic: Epidemiology, Risk Factors, and Treatments",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8029638/",
+    "index": 49,
+    "download_status": "failed",
+    "pdf_url": null,
+    "path": null
+  },
+  {
+    "title": "Outcomes in randomized controlled trials on slowing myopia",
+    "doi": null,
+    "disease_tags": [
+      "myopia"
+    ],
+    "source": "PMC",
+    "trust_level": "high",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12902262/",
+    "index": 50,
+    "download_status": "downloaded",
+    "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/34/e8/main.PMC12902262.pdf",
+    "path": "data/articles/downloads/0050_PMC12902262_main_pmc12902262.pdf"
+  }
+]

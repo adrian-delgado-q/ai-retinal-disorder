@@ -1,0 +1,15 @@
+.states
+*.db
+*.py[cod]
+__pycache__/
+assets/external/
+.web
+
+# Large assets — see resources.md for how to fetch these
+data/model_artifacts/
+data/raw/
+data/articles/downloads/
+
+# Generated outputs
+runs/
+uploaded_files/

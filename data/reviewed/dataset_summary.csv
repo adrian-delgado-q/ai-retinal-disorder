@@ -1,0 +1,12 @@
+class_name,included,total_images,train_images,val_images,test_images
+central_serous_chorioretinopathy,yes,101,71,15,15
+diabetic_retinopathy,yes,1509,1056,227,226
+disc_edema,yes,127,89,19,19
+glaucoma,yes,1349,944,203,202
+healthy,yes,1024,717,154,153
+macular_scar,yes,444,311,67,66
+myopia,yes,500,350,75,75
+pterygium,no,17,0,0,0
+retinal_detachment,yes,125,87,19,19
+retinitis_pigmentosa,yes,139,97,21,21
+__totals__,yes,5318,3722,800,796
